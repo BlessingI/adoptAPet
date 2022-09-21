@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/adoptAPet/static/js/main.154f9e03.chunk.js",
+    "main.js.map": "/adoptAPet/static/js/main.154f9e03.chunk.js.map",
+    "runtime-main.js": "/adoptAPet/static/js/runtime-main.2671bc30.js",
+    "runtime-main.js.map": "/adoptAPet/static/js/runtime-main.2671bc30.js.map",
+    "static/js/2.e1ae47c4.chunk.js": "/adoptAPet/static/js/2.e1ae47c4.chunk.js",
+    "static/js/2.e1ae47c4.chunk.js.map": "/adoptAPet/static/js/2.e1ae47c4.chunk.js.map",
+    "static/js/3.9ca0359a.chunk.js": "/adoptAPet/static/js/3.9ca0359a.chunk.js",
+    "static/js/3.9ca0359a.chunk.js.map": "/adoptAPet/static/js/3.9ca0359a.chunk.js.map",
+    "index.html": "/adoptAPet/index.html",
+    "static/js/2.e1ae47c4.chunk.js.LICENSE.txt": "/adoptAPet/static/js/2.e1ae47c4.chunk.js.LICENSE.txt",
+    "static/media/logo.c7c56d31.svg": "/adoptAPet/static/media/logo.c7c56d31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2671bc30.js",
+    "static/js/2.e1ae47c4.chunk.js",
+    "static/js/main.154f9e03.chunk.js"
+  ]
+}
